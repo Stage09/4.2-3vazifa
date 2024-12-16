@@ -76,18 +76,18 @@
 
 // 4-vazifa
 
-let oy = prompt("Oyni kiriting (1-12 oralig'ida):");  
-oy = Number(oy);  
+// let oy = prompt("Oyni kiriting (1-12 oralig'ida):");  
+// oy = Number(oy);  
 
-if (oy >= 3 && oy <= 5) {
-    alert("Bahor"); 
-} else if (oy >= 6 && oy <= 8) {
-    alert("Yoz");  
-} else if (oy >= 9 && oy <= 11) {
-    alert("Kuz"); 
-} else if (oy <=12 && oy >= 2) {
-    alert("Qish");  
-} else {
-    alert("Iltimos, 1 dan 12 gacha bo'lgan raqam kiriting.");
-}
+// if (oy >= 3 && oy <= 5) {
+//     alert("Bahor"); 
+// } else if (oy >= 6 && oy <= 8) {
+//     alert("Yoz");  
+// } else if (oy >= 9 && oy <= 11) {
+//     alert("Kuz"); 
+// } else if (oy <=12 && oy >= 2) {
+//     alert("Qish");  
+// } else {
+//     alert("Iltimos, 1 dan 12 gacha bo'lgan raqam kiriting.");
+// }
 
